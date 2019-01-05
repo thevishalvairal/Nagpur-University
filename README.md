@@ -1,2 +1,2 @@
 # Nagpur-University 
-Summer Exam Time Table
+Summer Exam Date
